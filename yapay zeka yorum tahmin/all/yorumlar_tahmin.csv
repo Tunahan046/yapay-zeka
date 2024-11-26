@@ -1,11 +1,11 @@
 Yorum,Predicted_Class,Vectorized_Text
-"herkes tablet kullanarak ders ankatırken, elinde mousle ders anlatmaya çalışan koca yürekli adam.",pozitif,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 339 2284 2356 1728 1559 1728 1806 758 2763 426
-Hocam az diksiyona dikkat etsek keşke ya emeğinize sağlık..,pozitif,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 113 400 579 96 1051
-baun eem 'den hayırlı bayramlar arkadaşlar sınavlara çalışma vakti geldi:)Video ıcın kanala teşekkürler,nötr,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 459 1446 132 1025 4814 1870 32
-Çok Teşekkürler elinize sağlık,nötr,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 32 1115 1051
+"herkes tablet kullanarak ders ankatırken, elinde mousle ders anlatmaya çalışan koca yürekli adam.",pozitif, 339 2284 2356 1728 1559 1728 1806 758 2763 426
+Hocam az diksiyona dikkat etsek keşke ya emeğinize sağlık..,pozitif, 113 400 579 96 1051
+baun eem 'den hayırlı bayramlar arkadaşlar sınavlara çalışma vakti geldi:)Video ıcın kanala teşekkürler,nötr, 459 1446 132 1025 4814 1870 32
+Çok Teşekkürler elinize sağlık,nötr, 3 32 1115 1051
 "Efendim 2 üzeri 0, 1 eşit değil mi?
 
-Niçin 0 dan başlatma gereği duydunuz",pozitif,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3125 3705 38 317 2397
+Niçin 0 dan başlatma gereği duydunuz",pozitif, 3125 3705 38 317 2397
 hocam videoların devamını bekliyoruz :),nötr,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4262 4158
 umarım bu serinin devamı gelir ve seriyi tamamlarsınız..,pozitif,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 613 4 908 2958 503 2 4966
 Hocam emeğinize sağlık bir şey soracaktım bilgisayarın dokunmatik kısmıyla mı yazıyorsunuz ?,pozitif,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1051 1 106 1863 326
